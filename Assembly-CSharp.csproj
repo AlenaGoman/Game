@@ -53,8 +53,13 @@
     <UnityVersion>2020.3.22f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Starter.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\Return.cs" />
+    <Compile Include="Assets\Scripts\Ballscore.cs" />
     <Compile Include="Assets\Scripts\Flipper.cs" />
+    <Compile Include="Assets\Scripts\BlockEnd.cs" />
+    <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\Starter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
